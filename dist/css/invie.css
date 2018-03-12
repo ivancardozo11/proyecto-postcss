@@ -1,7 +1,10 @@
-body{
-  background: brown;
+.InvieHero{
+padding: 20px;
+height: 500px;
 }
-.classTest{
+
+.InvieHero-header {
   display: flex;
-  transition: all 0.3s ease;
+  flex-direction: row;
+  justify-content: space-between;
 }
